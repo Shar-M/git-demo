@@ -5,3 +5,5 @@ I'm adding more random lines
 This line would not result in conflict
 This line results in conflict
 Recursive merge
+Shows rebasing
+
